@@ -54,16 +54,12 @@
 
 
 
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" width="75px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" width="75px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="75px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="75px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="75px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="75px">
-<img src="" width="75px">
-<img src="" width="75px">
-<img src="" width="75px">
-<img src="" width="75px">
+<code><img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" width="75px"></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" width="75px"></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="75px"></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="75px"></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="75px"></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="75px"></code>
 
 ![Joey's status](https://github-readme-stats.vercel.app/api?username=joey-dev&count_private=true&show_icons=true&theme=default)
 
