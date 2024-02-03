@@ -2,7 +2,7 @@
  <h1> Hi, I'm Joey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 </div>
 <p>
-  I'm a full stack developer with a passion for learning and building things.
+  I'm a full stack (mostly back-end) developer with a passion for learning and building things.
 </p>
 
 <h2>
@@ -28,11 +28,7 @@
     </li>
     <li>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="10px" />
-        text editor: Vim 
-    </li>
-    <li>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-plain-wordmark.svg" width="10px" />
-        IDE: JetBrains PHPStorm
+        text editor/IDE: NeoVim 
     </li>
     <li>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="10px" />
